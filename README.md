@@ -1,2 +1,2 @@
 # phy-data
-Kwik example datasets
+Example datasets
